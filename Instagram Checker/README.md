@@ -9,7 +9,7 @@ This Python script analyzes Instagram following and follower data from HTML file
 ## Requirements
 Python 3.x, BeautifulSoup4, pandas
 
-##Installation
+## Installation
 1. Clone this repository or download the script.
 2. Install the required packages:
 ```
