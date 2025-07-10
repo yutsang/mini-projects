@@ -165,19 +165,24 @@ log/
 # PROJECT SPECIFIC FILES
 # ============================================
 
-# Data Files (comment out if you want to track data)
-*.csv
-*.xlsx
-*.xls
-*.json
-*.xml
+# Large Database Files (keep project data but exclude large databases)
 *.sqlite
 *.db
 
-# Output Files
-output/
-results/
-exports/
+# Personal/Sensitive Data Files (uncomment if needed)
+# personal_data.csv
+# sensitive_info.xlsx
+# private_config.json
+
+# Generated Output Files (uncomment if you want to exclude outputs)
+# output/
+# results/
+# exports/
+
+# Generated Output Directories (uncomment if you want to exclude)
+# output/
+# results/
+# exports/
 
 # Backup Files
 *.bak
@@ -189,16 +194,17 @@ exports/
 *.tar.gz
 *.rar
 
-# Large Media Files
-*.mp4
-*.mov
-*.avi
-*.mkv
-*.mp3
-*.wav
-*.pdf
-*.dmg
-*.iso
+# Large Media Files (uncomment specific types if needed)
+# *.mp4
+# *.mov
+# *.avi
+# *.mkv
+# *.mp3
+# *.wav
+# *.dmg
+# *.iso
+
+# Note: PDF files are allowed for documentation and sample files
 
 # ============================================
 # SPECIAL DIRECTORIES

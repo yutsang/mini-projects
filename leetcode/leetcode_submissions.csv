@@ -1,0 +1,238 @@
+Finished Date,Question,Question URL,Status,Runtime,Language
+2024-09-06,Rotate Image,https://leetcode.com/problems/rotate-image,Accepted,43 ms,python3
+2024-09-06,Set Matrix Zeroes,https://leetcode.com/problems/set-matrix-zeroes,Accepted,102 ms,python3
+2024-09-06,Game of Life,https://leetcode.com/problems/game-of-life,Accepted,42 ms,python3
+2024-09-06,Spiral Matrix IV,https://leetcode.com/problems/spiral-matrix-iv,Accepted,682 ms,python3
+2024-09-06,Spiral Matrix III,https://leetcode.com/problems/spiral-matrix-iii,Accepted,74 ms,python3
+2024-09-06,Spiral Matrix II,https://leetcode.com/problems/spiral-matrix-ii,Accepted,35 ms,python3
+2024-09-06,Spiral Matrix,https://leetcode.com/problems/spiral-matrix,Accepted,41 ms,python3
+2024-09-06,01 Matrix,https://leetcode.com/problems/01-matrix,Accepted,462 ms,python3
+2024-09-06,Special Positions in a Binary Matrix,https://leetcode.com/problems/special-positions-in-a-binary-matrix,Accepted,139 ms,python3
+2024-09-06,Print Words Vertically,https://leetcode.com/problems/print-words-vertically,Accepted,34 ms,python3
+2024-09-06,Sum of Imbalance Numbers of All Subarrays,https://leetcode.com/problems/sum-of-imbalance-numbers-of-all-subarrays,Accepted,3476 ms,python3
+2024-09-06,Flood Fill,https://leetcode.com/problems/flood-fill,Accepted,69 ms,python3
+2024-09-06,Count Number of Special Subsequences,https://leetcode.com/problems/count-number-of-special-subsequences,Accepted,1800 ms,python3
+2024-09-06,Frequency of the Most Frequent Element,https://leetcode.com/problems/frequency-of-the-most-frequent-element,Accepted,1449 ms,python3
+2024-09-06,Stone Game IX,https://leetcode.com/problems/stone-game-ix,Accepted,971 ms,python3
+2024-09-06,Stone Game VIII,https://leetcode.com/problems/stone-game-viii,Accepted,1020 ms,python3
+2024-09-06,Maximum Spending After Buying Items,https://leetcode.com/problems/maximum-spending-after-buying-items,Accepted,749 ms,python3
+2024-09-06,Minimum Recolors to Get K Consecutive Black Blocks,https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks,Accepted,33 ms,python3
+2024-09-06,Minimum Deletions to Make String K-Special,https://leetcode.com/problems/minimum-deletions-to-make-string-k-special,Accepted,921 ms,python3
+2024-09-06,Remove Letter To Equalize Frequency,https://leetcode.com/problems/remove-letter-to-equalize-frequency,Accepted,28 ms,python3
+2024-09-06,Maximum Number of Non-overlapping Palindrome Substrings,https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings,Accepted,2836 ms,python3
+2024-09-06,Reformat Phone Number,https://leetcode.com/problems/reformat-phone-number,Accepted,34 ms,python3
+2024-09-06,Maximum Number of Tasks You Can Assign,https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign,Accepted,881 ms,python3
+2024-09-05,Sell Diminishing-Valued Colored Balls,https://leetcode.com/problems/sell-diminishing-valued-colored-balls,Accepted,507 ms,python3
+2024-09-05,Divide Players Into Teams of Equal Skill,https://leetcode.com/problems/divide-players-into-teams-of-equal-skill,Accepted,395 ms,python3
+2024-09-05,Minimum Operations to Make the Integer Zero,https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero,Accepted,40 ms,python3
+2024-09-05,Minimum Operations to Make the Integer Zero,https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero,Wrong Answer,N/A,python3
+2024-09-05,Minimum Operations to Convert Number,https://leetcode.com/problems/minimum-operations-to-convert-number,Accepted,749 ms,python3
+2024-09-05,Minimum Operations to Convert Number,https://leetcode.com/problems/minimum-operations-to-convert-number,Wrong Answer,N/A,python3
+2024-09-05,Find Pivot Index,https://leetcode.com/problems/find-pivot-index,Accepted,125 ms,python3
+2024-09-05,Subarray Product Less Than K,https://leetcode.com/problems/subarray-product-less-than-k,Accepted,511 ms,python3
+2024-09-05,Apply Operations to Make All Array Elements Equal to Zero,https://leetcode.com/problems/apply-operations-to-make-all-array-elements-equal-to-zero,Accepted,630 ms,python3
+2024-09-05,Apply Operations to Make All Array Elements Equal to Zero,https://leetcode.com/problems/apply-operations-to-make-all-array-elements-equal-to-zero,Wrong Answer,N/A,python3
+2024-09-05,Intervals Between Identical Elements,https://leetcode.com/problems/intervals-between-identical-elements,Accepted,834 ms,python3
+2024-09-05,Minimum One Bit Operations to Make Integers Zero,https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero,Accepted,32 ms,python3
+2024-09-05,Moving Stones Until Consecutive II,https://leetcode.com/problems/moving-stones-until-consecutive-ii,Accepted,108 ms,python3
+2024-09-05,Moving Stones Until Consecutive II,https://leetcode.com/problems/moving-stones-until-consecutive-ii,Wrong Answer,N/A,python3
+2024-09-05,Maximize the Confusion of an Exam,https://leetcode.com/problems/maximize-the-confusion-of-an-exam,Accepted,237 ms,python3
+2024-09-05,Longer Contiguous Segments of Ones than Zeros,https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros,Accepted,35 ms,python3
+2024-09-05,Count Number of Homogenous Substrings,https://leetcode.com/problems/count-number-of-homogenous-substrings,Accepted,106 ms,python3
+2024-09-05,Longest Increasing Subsequence II,https://leetcode.com/problems/longest-increasing-subsequence-ii,Accepted,1481 ms,python3
+2024-09-05,Maximum Length of Pair Chain,https://leetcode.com/problems/maximum-length-of-pair-chain,Accepted,182 ms,python3
+2024-09-05,Russian Doll Envelopes,https://leetcode.com/problems/russian-doll-envelopes,Accepted,1101 ms,python3
+2024-09-05,Count Increasing Quadruplets,https://leetcode.com/problems/count-increasing-quadruplets,Accepted,7367 ms,python3
+2024-09-05,Count Good Triplets in an Array,https://leetcode.com/problems/count-good-triplets-in-an-array,Accepted,1365 ms,python3
+2024-09-05,Count Increasing Quadruplets,https://leetcode.com/problems/count-increasing-quadruplets,Accepted,5236 ms,python3
+2024-09-05,Count Increasing Quadruplets,https://leetcode.com/problems/count-increasing-quadruplets,Time Limit Exceeded,N/A,python3
+2024-09-05,Number of Arithmetic Triplets,https://leetcode.com/problems/number-of-arithmetic-triplets,Accepted,60 ms,python3
+2024-09-05,Maximum Strength of K Disjoint Subarrays,https://leetcode.com/problems/maximum-strength-of-k-disjoint-subarrays,Accepted,3297 ms,python3
+2024-09-05,Maximum Strength of K Disjoint Subarrays,https://leetcode.com/problems/maximum-strength-of-k-disjoint-subarrays,Wrong Answer,N/A,python3
+2024-09-05,Maximum Strength of a Group,https://leetcode.com/problems/maximum-strength-of-a-group,Accepted,53 ms,python3
+2024-09-05,Maximum Strength of a Group,https://leetcode.com/problems/maximum-strength-of-a-group,Wrong Answer,N/A,python3
+2024-09-05,Count Square Sum Triples,https://leetcode.com/problems/count-square-sum-triples,Accepted,198 ms,python3
+2024-09-05,Number of Unequal Triplets in Array,https://leetcode.com/problems/number-of-unequal-triplets-in-array,Accepted,452 ms,python3
+2024-09-05,Number of Unequal Triplets in Array,https://leetcode.com/problems/number-of-unequal-triplets-in-array,Wrong Answer,N/A,python3
+2024-09-05,Count Good Triplets,https://leetcode.com/problems/count-good-triplets,Accepted,289 ms,python3
+2024-09-05,Count Special Quadruplets,https://leetcode.com/problems/count-special-quadruplets,Accepted,592 ms,python3
+2024-09-05,Count Special Quadruplets,https://leetcode.com/problems/count-special-quadruplets,Wrong Answer,N/A,python3
+2024-09-05,Increasing Triplet Subsequence,https://leetcode.com/problems/increasing-triplet-subsequence,Accepted,774 ms,python3
+2024-09-05,Longest Increasing Subsequence,https://leetcode.com/problems/longest-increasing-subsequence,Accepted,61 ms,python3
+2024-09-05,Number of Longest Increasing Subsequence,https://leetcode.com/problems/number-of-longest-increasing-subsequence,Accepted,510 ms,python3
+2024-09-05,Longest Continuous Increasing Subsequence,https://leetcode.com/problems/longest-continuous-increasing-subsequence,Accepted,69 ms,python3
+2024-09-04,Consecutive Characters,https://leetcode.com/problems/consecutive-characters,Accepted,46 ms,python3
+2024-09-04,Max Consecutive Ones,https://leetcode.com/problems/max-consecutive-ones,Accepted,358 ms,python3
+2024-09-04,Max Consecutive Ones III,https://leetcode.com/problems/max-consecutive-ones-iii,Accepted,464 ms,python3
+2024-09-04,Longest Repeating Character Replacement,https://leetcode.com/problems/longest-repeating-character-replacement,Accepted,89 ms,python3
+2024-09-04,Minimum Number of Operations to Make Array Continuous,https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous,Accepted,599 ms,python3
+2024-09-04,Continuous Subarray Sum,https://leetcode.com/problems/continuous-subarray-sum,Accepted,897 ms,python3
+2024-09-04,Subarray Sum Equals K,https://leetcode.com/problems/subarray-sum-equals-k,Accepted,233 ms,python3
+2024-09-04,Minimum Operations to Reduce X to Zero,https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero,Accepted,834 ms,python3
+2024-09-04,Removing Minimum Number of Magic Beans,https://leetcode.com/problems/removing-minimum-number-of-magic-beans,Accepted,981 ms,python3
+2024-09-04,Minimum Operations to Make a Uni-Value Grid,https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid,Accepted,1195 ms,python3
+2024-09-04,Minimum Moves to Equal Array Elements II,https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii,Accepted,79 ms,python3
+2024-09-04,Minimum Moves to Equal Array Elements,https://leetcode.com/problems/minimum-moves-to-equal-array-elements,Accepted,208 ms,python3
+2024-09-04,Maximum Running Time of N Computers,https://leetcode.com/problems/maximum-running-time-of-n-computers,Accepted,1687 ms,python3
+2024-09-04,Minimum Number of Flips to Make the Binary String Alternating,https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating,Accepted,541 ms,python3
+2024-09-04,Minimum Operations to Make the Array Alternating,https://leetcode.com/problems/minimum-operations-to-make-the-array-alternating,Accepted,844 ms,python3
+2024-09-04,Minimum Deletions to Make Array Beautiful,https://leetcode.com/problems/minimum-deletions-to-make-array-beautiful,Accepted,938 ms,python3
+2024-09-04,Minimum Deletions to Make Character Frequencies Unique,https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique,Accepted,126 ms,python3
+2024-09-04,Removing Minimum and Maximum From Array,https://leetcode.com/problems/removing-minimum-and-maximum-from-array,Accepted,679 ms,python3
+2024-09-04,Maximum Points You Can Obtain from Cards,https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards,Accepted,304 ms,python3
+2024-09-04,Maximum Score from Performing Multiplication Operations,https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations,Accepted,791 ms,python3
+2024-09-04,Stone Game IV,https://leetcode.com/problems/stone-game-iv,Accepted,566 ms,python3
+2024-09-04,Stone Game VII,https://leetcode.com/problems/stone-game-vii,Accepted,2044 ms,python3
+2024-09-04,Stone Game III,https://leetcode.com/problems/stone-game-iii,Accepted,1774 ms,python3
+2024-09-04,Stone Game VI,https://leetcode.com/problems/stone-game-vi,Accepted,964 ms,python3
+2024-09-04,Stone Game II,https://leetcode.com/problems/stone-game-ii,Accepted,259 ms,python3
+2024-09-04,Stone Game V,https://leetcode.com/problems/stone-game-v,Accepted,9823 ms,python3
+2024-09-04,Stone Game V,https://leetcode.com/problems/stone-game-v,Time Limit Exceeded,N/A,python3
+2024-09-04,Stone Game V,https://leetcode.com/problems/stone-game-v,Wrong Answer,N/A,python3
+2024-09-04,Stone Game,https://leetcode.com/problems/stone-game,Accepted,192 ms,python3
+2024-09-04,Visit Array Positions to Maximize Score,https://leetcode.com/problems/visit-array-positions-to-maximize-score,Accepted,780 ms,python3
+2024-09-04,Visit Array Positions to Maximize Score,https://leetcode.com/problems/visit-array-positions-to-maximize-score,Wrong Answer,N/A,python3
+2024-09-04,Transform to Chessboard,https://leetcode.com/problems/transform-to-chessboard,Accepted,60 ms,python3
+2024-09-04,Move Zeroes,https://leetcode.com/problems/move-zeroes,Accepted,122 ms,python3
+2024-09-04,Apply Operations to an Array,https://leetcode.com/problems/apply-operations-to-an-array,Accepted,50 ms,python3
+2024-09-04,Minimum Difficulty of a Job Schedule,https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule,Accepted,531 ms,python3
+2024-09-04,Difference Between Ones and Zeros in Row and Column,https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column,Accepted,1234 ms,python3
+2024-09-04,Check if Matrix Is X-Matrix,https://leetcode.com/problems/check-if-matrix-is-x-matrix,Accepted,216 ms,python3
+2024-09-04,First Completely Painted Row or Column,https://leetcode.com/problems/first-completely-painted-row-or-column,Accepted,935 ms,python3
+2024-09-04,Matrix Diagonal Sum,https://leetcode.com/problems/matrix-diagonal-sum,Accepted,103 ms,python3
+2024-09-04,Check if Every Row and Column Contains All Numbers,https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers,Accepted,598 ms,python3
+2024-09-04,Valid Sudoku,https://leetcode.com/problems/valid-sudoku,Accepted,92 ms,python3
+2024-08-16,Maximum Length of Repeated Subarray,https://leetcode.com/problems/maximum-length-of-repeated-subarray,Accepted,1475 ms,python3
+2024-08-16,Minimum Window Substring,https://leetcode.com/problems/minimum-window-substring,Accepted,114 ms,python3
+2024-08-16,Minimum Size Subarray Sum,https://leetcode.com/problems/minimum-size-subarray-sum,Accepted,181 ms,python3
+2024-08-16,Two Sum IV - Input is a BST,https://leetcode.com/problems/two-sum-iv-input-is-a-bst,Accepted,86 ms,python3
+2024-08-16,Two Sum II - Input Array Is Sorted,https://leetcode.com/problems/two-sum-ii-input-array-is-sorted,Accepted,101 ms,python3
+2024-08-16,Is Subsequence,https://leetcode.com/problems/is-subsequence,Accepted,32 ms,python3
+2024-08-16,Valid Palindrome,https://leetcode.com/problems/valid-palindrome,Accepted,39 ms,python3
+2024-08-07,Text Justification,https://leetcode.com/problems/text-justification,Accepted,34 ms,python3
+2024-08-07,Reverse Words in a String,https://leetcode.com/problems/reverse-words-in-a-string,Accepted,32 ms,python3
+2024-08-07,Length of Last Word,https://leetcode.com/problems/length-of-last-word,Accepted,28 ms,python3
+2024-07-31,Trapping Rain Water II,https://leetcode.com/problems/trapping-rain-water-ii,Accepted,265 ms,python3
+2024-07-31,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water,Accepted,98 ms,python3
+2024-07-31,Candy,https://leetcode.com/problems/candy,Accepted,115 ms,python3
+2024-07-31,Gas Station,https://leetcode.com/problems/gas-station,Accepted,952 ms,python3
+2024-07-31,Insert Delete GetRandom O(1),https://leetcode.com/problems/insert-delete-getrandom-o1,Accepted,252 ms,python3
+2024-07-31,H-Index,https://leetcode.com/problems/h-index,Accepted,31 ms,python3
+2024-07-31,Maximum Number of Jumps to Reach the Last Index,https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index,Accepted,559 ms,python3
+2024-07-31,Jump Game IV,https://leetcode.com/problems/jump-game-iv,Accepted,538 ms,python3
+2024-07-31,Jump Game VII,https://leetcode.com/problems/jump-game-vii,Accepted,259 ms,python3
+2024-07-31,Jump Game III,https://leetcode.com/problems/jump-game-iii,Accepted,226 ms,python3
+2024-07-31,Jump Game II,https://leetcode.com/problems/jump-game-ii,Accepted,110 ms,python3
+2024-07-31,Jump Game II,https://leetcode.com/problems/jump-game-ii,Runtime Error,,python3
+2024-07-31,Jump Game,https://leetcode.com/problems/jump-game,Accepted,370 ms,python3
+2024-07-31,Best Time to Buy and Sell Stock IV,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv,Accepted,94 ms,python3
+2024-07-31,Best Time to Buy and Sell Stock III,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii,Accepted,823 ms,python3
+2024-07-31,Best Time to Buy and Sell Stock II,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii,Accepted,67 ms,python3
+2024-07-31,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,Accepted,686 ms,python3
+2024-07-31,Rotate Array,https://leetcode.com/problems/rotate-array,Accepted,155 ms,python3
+2024-07-31,Majority Element,https://leetcode.com/problems/majority-element,Accepted,164 ms,python3
+2024-07-31,Remove Duplicates from Sorted Array II,https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii,Accepted,49 ms,python3
+2024-07-31,Merge Sorted Array,https://leetcode.com/problems/merge-sorted-array,Accepted,45 ms,python3
+2024-07-31,Method Chaining,https://leetcode.com/problems/method-chaining,Accepted,388 ms,pythondata
+2024-07-31,Method Chaining,https://leetcode.com/problems/method-chaining,Runtime Error,,pythondata
+2024-07-31,Method Chaining,https://leetcode.com/problems/method-chaining,Wrong Answer,,pythondata
+2024-07-31,Reshape Data: Melt,https://leetcode.com/problems/reshape-data-melt,Accepted,427 ms,pythondata
+2024-07-31,Reshape Data: Pivot,https://leetcode.com/problems/reshape-data-pivot,Accepted,433 ms,pythondata
+2024-07-31,Reshape Data: Concatenate,https://leetcode.com/problems/reshape-data-concatenate,Accepted,411 ms,pythondata
+2024-07-31,Reshape Data: Concatenate,https://leetcode.com/problems/reshape-data-concatenate,Runtime Error,,pythondata
+2024-07-31,Fill Missing Data,https://leetcode.com/problems/fill-missing-data,Accepted,336 ms,pythondata
+2024-07-31,Fill Missing Data,https://leetcode.com/problems/fill-missing-data,Wrong Answer,,pythondata
+2024-07-31,Change Data Type,https://leetcode.com/problems/change-data-type,Accepted,540 ms,pythondata
+2024-07-31,Rename Columns,https://leetcode.com/problems/rename-columns,Accepted,384 ms,pythondata
+2024-07-31,Modify Columns,https://leetcode.com/problems/modify-columns,Accepted,336 ms,pythondata
+2024-07-31,Modify Columns,https://leetcode.com/problems/modify-columns,Accepted,465 ms,pythondata
+2024-07-31,Modify Columns,https://leetcode.com/problems/modify-columns,Wrong Answer,,pythondata
+2024-07-31,Modify Columns,https://leetcode.com/problems/modify-columns,Accepted,356 ms,pythondata
+2024-07-31,Modify Columns,https://leetcode.com/problems/modify-columns,Accepted,373 ms,pythondata
+2024-07-31,Modify Columns,https://leetcode.com/problems/modify-columns,Runtime Error,,pythondata
+2024-07-31,Modify Columns,https://leetcode.com/problems/modify-columns,Accepted,389 ms,pythondata
+2024-07-31,Drop Missing Data,https://leetcode.com/problems/drop-missing-data,Accepted,409 ms,pythondata
+2024-07-31,Drop Missing Data,https://leetcode.com/problems/drop-missing-data,Wrong Answer,,pythondata
+2024-07-31,Drop Duplicate Rows,https://leetcode.com/problems/drop-duplicate-rows,Accepted,341 ms,pythondata
+2024-07-31,Create a New Column,https://leetcode.com/problems/create-a-new-column,Accepted,372 ms,pythondata
+2024-07-31,Select Data,https://leetcode.com/problems/select-data,Accepted,363 ms,pythondata
+2024-07-31,Display the First Three Rows,https://leetcode.com/problems/display-the-first-three-rows,Accepted,406 ms,pythondata
+2024-07-31,Get the Size of a DataFrame,https://leetcode.com/problems/get-the-size-of-a-dataframe,Accepted,360 ms,pythondata
+2024-07-31,Create a DataFrame from List,https://leetcode.com/problems/create-a-dataframe-from-list,Accepted,352 ms,pythondata
+2024-07-31,Contiguous Array,https://leetcode.com/problems/contiguous-array,Accepted,620 ms,python3
+2024-07-31,Product of Array Except Self,https://leetcode.com/problems/product-of-array-except-self,Accepted,271 ms,python3
+2024-07-31,Binary Subarrays With Sum,https://leetcode.com/problems/binary-subarrays-with-sum,Accepted,217 ms,python3
+2024-07-31,Find the Pivot Integer,https://leetcode.com/problems/find-the-pivot-integer,Accepted,38 ms,python3
+2024-07-31,Remove Zero Sum Consecutive Nodes from Linked List,https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list,Accepted,36 ms,python3
+2024-07-31,Custom Sort String,https://leetcode.com/problems/custom-sort-string,Accepted,31 ms,python3
+2024-07-31,Word Break II,https://leetcode.com/problems/word-break-ii,Accepted,38 ms,python3
+2024-07-31,Next Permutation,https://leetcode.com/problems/next-permutation,Accepted,44 ms,python3
+2024-07-24,Next Permutation,https://leetcode.com/problems/next-permutation,Accepted,41 ms,python3
+2024-07-24,Minimum Length of String After Deleting Similar Ends,https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends,Accepted,61 ms,python3
+2024-07-24,Bag of Tokens,https://leetcode.com/problems/bag-of-tokens,Accepted,50 ms,python3
+2024-07-24,Intersection of Two Arrays,https://leetcode.com/problems/intersection-of-two-arrays,Accepted,48 ms,python3
+2024-07-24,Intersection of Two Arrays,https://leetcode.com/problems/intersection-of-two-arrays,Accepted,54 ms,python3
+2024-07-24,Minimum Common Value,https://leetcode.com/problems/minimum-common-value,Accepted,346 ms,python3
+2024-07-24,Count Elements With Maximum Frequency,https://leetcode.com/problems/count-elements-with-maximum-frequency,Accepted,48 ms,python3
+2024-07-24,Middle of the Linked List,https://leetcode.com/problems/middle-of-the-linked-list,Accepted,41 ms,python3
+2024-07-24,Linked List Cycle,https://leetcode.com/problems/linked-list-cycle,Accepted,48 ms,python3
+2024-07-24,Number of Atoms,https://leetcode.com/problems/number-of-atoms,Accepted,29 ms,python3
+2024-07-24,Lucky Numbers in a Matrix,https://leetcode.com/problems/lucky-numbers-in-a-matrix,Accepted,107 ms,python3
+2024-07-24,Squares of a Sorted Array,https://leetcode.com/problems/squares-of-a-sorted-array,Accepted,165 ms,python3
+2024-07-24,Maximum Odd Binary Number,https://leetcode.com/problems/maximum-odd-binary-number,Accepted,38 ms,python3
+2024-07-24,Find Bottom Left Tree Value,https://leetcode.com/problems/find-bottom-left-tree-value,Accepted,39 ms,python3
+2024-07-24,Even Odd Tree,https://leetcode.com/problems/even-odd-tree,Accepted,220 ms,python3
+2024-07-24,Diameter of Binary Tree,https://leetcode.com/problems/diameter-of-binary-tree,Accepted,51 ms,python3
+2024-07-24,Same Tree,https://leetcode.com/problems/same-tree,Accepted,43 ms,python3
+2024-07-24,Cheapest Flights Within K Stops,https://leetcode.com/problems/cheapest-flights-within-k-stops,Accepted,179 ms,python3
+2024-07-24,Cheapest Flights Within K Stops,https://leetcode.com/problems/cheapest-flights-within-k-stops,Time Limit Exceeded,,python3
+2024-07-24,Bitwise AND of Numbers Range,https://leetcode.com/problems/bitwise-and-of-numbers-range,Accepted,56 ms,python3
+2024-07-24,Find the Town Judge,https://leetcode.com/problems/find-the-town-judge,Accepted,599 ms,python3
+2024-07-24,Robot Collisions,https://leetcode.com/problems/robot-collisions,Accepted,1005 ms,python3
+2024-07-24,Robot Collisions,https://leetcode.com/problems/robot-collisions,Runtime Error,,python3
+2024-07-24,First Missing Positive,https://leetcode.com/problems/first-missing-positive,Accepted,380 ms,python3
+2024-07-24,Greatest Common Divisor Traversal,https://leetcode.com/problems/greatest-common-divisor-traversal,Accepted,930 ms,python3
+2024-07-24,Greatest Common Divisor Traversal,https://leetcode.com/problems/greatest-common-divisor-traversal,Wrong Answer,,python3
+2024-07-24,Greatest Common Divisor Traversal,https://leetcode.com/problems/greatest-common-divisor-traversal,Runtime Error,,python3
+2024-07-24,Greatest Common Divisor Traversal,https://leetcode.com/problems/greatest-common-divisor-traversal,Time Limit Exceeded,,python3
+2024-07-24,Find All People With Secret,https://leetcode.com/problems/find-all-people-with-secret,Accepted,1620 ms,python3
+2024-07-24,Missing Number,https://leetcode.com/problems/missing-number,Accepted,105 ms,python3
+2024-07-24,Number of Good Leaf Nodes Pairs,https://leetcode.com/problems/number-of-good-leaf-nodes-pairs,Accepted,90 ms,python3
+2024-07-24,Longest Valid Parentheses,https://leetcode.com/problems/longest-valid-parentheses,Accepted,38 ms,python3
+2024-07-24,Substring with Concatenation of All Words,https://leetcode.com/problems/substring-with-concatenation-of-all-words,Accepted,90 ms,python3
+2024-07-24,Find the Index of the First Occurrence in a String,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string,Accepted,30 ms,python3
+2024-07-24,Find the Index of the First Occurrence in a String,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string,Wrong Answer,,python3
+2024-07-24,Remove Element,https://leetcode.com/problems/remove-element,Accepted,41 ms,python3
+2024-07-24,Remove Duplicates from Sorted Array,https://leetcode.com/problems/remove-duplicates-from-sorted-array,Accepted,69 ms,python3
+2024-07-24,Swap Nodes in Pairs,https://leetcode.com/problems/swap-nodes-in-pairs,Accepted,44 ms,python3
+2024-07-24,Generate Parentheses,https://leetcode.com/problems/generate-parentheses,Accepted,33 ms,python3
+2024-07-17,Remove Nth Node From End of List,https://leetcode.com/problems/remove-nth-node-from-end-of-list,Accepted,30 ms,python3
+2024-07-17,4Sum,https://leetcode.com/problems/4sum,Accepted,443 ms,python3
+2024-07-17,4Sum,https://leetcode.com/problems/4sum,Wrong Answer,,python3
+2024-07-17,Letter Combinations of a Phone Number,https://leetcode.com/problems/letter-combinations-of-a-phone-number,Accepted,35 ms,python3
+2024-07-17,Merge Two Sorted Lists,https://leetcode.com/problems/merge-two-sorted-lists,Accepted,33 ms,python3
+2024-07-17,3Sum Closest,https://leetcode.com/problems/3sum-closest,Accepted,427 ms,python3
+2024-07-17,3Sum Closest,https://leetcode.com/problems/3sum-closest,Wrong Answer,,python3
+2024-07-17,3Sum Closest,https://leetcode.com/problems/3sum-closest,Runtime Error,,python3
+2024-07-17,3Sum,https://leetcode.com/problems/3sum,Accepted,718 ms,python3
+2024-07-17,Valid Parentheses,https://leetcode.com/problems/valid-parentheses,Accepted,42 ms,python3
+2024-07-17,Longest Common Prefix,https://leetcode.com/problems/longest-common-prefix,Accepted,45 ms,python3
+2024-07-17,Merge k Sorted Lists,https://leetcode.com/problems/merge-k-sorted-lists,Accepted,70 ms,python3
+2024-07-17,Container With Most Water,https://leetcode.com/problems/container-with-most-water,Accepted,546 ms,python3
+2024-07-17,Roman to Integer,https://leetcode.com/problems/roman-to-integer,Accepted,49 ms,python3
+2024-07-17,Regular Expression Matching,https://leetcode.com/problems/regular-expression-matching,Accepted,8568 ms,python3
+2024-07-17,String to Integer (atoi),https://leetcode.com/problems/string-to-integer-atoi,Accepted,34 ms,python3
+2024-07-17,Reverse Integer,https://leetcode.com/problems/reverse-integer,Accepted,36 ms,python3
+2024-07-17,Zigzag Conversion,https://leetcode.com/problems/zigzag-conversion,Accepted,41 ms,python3
+2024-07-17,Integer to Roman,https://leetcode.com/problems/integer-to-roman,Accepted,52 ms,python3
+2024-07-17,Sudoku Solver,https://leetcode.com/problems/sudoku-solver,Accepted,280 ms,python3
+2024-07-17,Reverse Nodes in k-Group,https://leetcode.com/problems/reverse-nodes-in-k-group,Accepted,35 ms,python3
+2024-07-17,Palindrome Number,https://leetcode.com/problems/palindrome-number,Accepted,55 ms,python3
+2024-07-17,Divide Two Integers,https://leetcode.com/problems/divide-two-integers,Accepted,38 ms,python3
+2024-07-17,Divide Two Integers,https://leetcode.com/problems/divide-two-integers,Wrong Answer,,python3
+2024-07-17,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring,Accepted,272 ms,python3
+2024-07-17,Median of Two Sorted Arrays,https://leetcode.com/problems/median-of-two-sorted-arrays,Accepted,81 ms,python3
+2024-07-17,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters,Accepted,61 ms,python3
+2024-07-17,Add Two Numbers,https://leetcode.com/problems/add-two-numbers,Accepted,50 ms,python3
+2024-07-17,Add Two Numbers,https://leetcode.com/problems/add-two-numbers,Accepted,62 ms,python3
+2024-07-17,Two Sum,https://leetcode.com/problems/two-sum,Accepted,69 ms,python3
