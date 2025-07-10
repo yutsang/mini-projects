@@ -1,0 +1,13 @@
+#configuration file
+.config.cfg 
+config.cfg 
+
+#submission record
+#*.csv
+leetcode_submissions.csv
+
+#temp html reference file 
+*.html
+
+#trial notebook
+*.ipynb
