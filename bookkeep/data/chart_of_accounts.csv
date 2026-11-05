@@ -1,0 +1,8 @@
+account_code,account_name,account_type
+1000,Cash,asset
+1200,Accounts Receivable,asset
+2000,Accounts Payable,liability
+3000,Owner Equity,equity
+4000,Service Revenue,revenue
+5100,Rent Expense,expense
+5200,Utilities Expense,expense

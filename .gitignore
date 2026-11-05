@@ -1,0 +1,28 @@
+# Local settings and credentials
+.claude/
+.env
+.env.*
+!.env.template
+!.env.example
+*.key
+*.pem
+**/config.cfg
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+~$*
+
+# New workbooks and data exports need an explicit publication review.
+# Existing tracked public datasets remain available.
+*.xlsx
+*.xlsm
+*.csv
+*.parquet
+*.db
+
+# Local editor instructions and directory-comparison reports
+.cursorrules
+code_comparer/*.log
+code_comparer/comparison_result.json
+code_comparer/detailed_comparison.json
